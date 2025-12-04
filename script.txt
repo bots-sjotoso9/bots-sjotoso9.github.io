@@ -1,0 +1,4 @@
+while true do
+  local part = Instance.new("Part", workspace)
+  task.wait(0.1)
+end
